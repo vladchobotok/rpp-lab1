@@ -1,0 +1,4 @@
+D:/KNU/4kurs/RtaPP/Lab1/cmake-build-debug/CMakeFiles/MPI.dir
+D:/KNU/4kurs/RtaPP/Lab1/cmake-build-debug/CMakeFiles/OpenMP.dir
+D:/KNU/4kurs/RtaPP/Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/KNU/4kurs/RtaPP/Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
